@@ -1,0 +1,22 @@
+/*<style type="text/css" id="illdy-about-section-css">*/
+#header.header-front-page {
+	background-image: url(../asset/flight-sky-earth-space.jpg) !important;
+	background-position: initial; 
+	background-attachment: fixed;
+}
+
+#header.header-front-page .bottom-header .header-button-one {
+	background-color: rgba( 0, 0, 0, .2 );
+}
+
+#header.header-front-page .bottom-header .header-button-one:hover {
+	background-color: rgba( 0, 0, 0, .1 );
+}
+
+#header.header-front-page .bottom-header h1 {
+	color: #ffffff;
+}
+
+#header.header-front-page .bottom-header .section-description {
+	color: #ffffff;
+}
